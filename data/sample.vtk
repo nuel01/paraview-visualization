@@ -1,0 +1,10 @@
+# vtk DataFile Version 2.0
+Simple scalar field
+ASCII
+DATASET STRUCTURED_POINTS
+DIMENSIONS 20 20 20
+ORIGIN 0 0 0
+SPACING 1 1 1
+POINT_DATA 8000
+SCALARS Temperature float 1
+LOOKUP_TABLE default
